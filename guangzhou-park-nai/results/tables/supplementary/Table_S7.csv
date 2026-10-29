@@ -1,0 +1,16 @@
+﻿Station,Group,Months,"Sen slope
+(ions cm⁻³ month⁻¹)",Kendall τ,p value,q value (BH),Trend
+Dafushan Forest Park,Urban park group,7,47.2,0.43,0.239,0.412,Not significant
+Maofengshan Forest Park,Mountain forest group,16,106.9,0.33,0.079,0.368,Not significant
+Guangzhou Haizhu National Wetland Park,Urban park group,16,−6.7,−0.42,0.026,0.289,Decrease (unadjusted)
+Liuxihe National Forest Park,Mountain forest group,16,−927.4,−0.28,0.139,0.393,Not significant
+Zhujiang Park,Urban park group,16,8.3,0.27,0.165,0.393,Not significant
+"Mingzhulou Heshulin, Baiyun Mountain",Urban park group,16,9.4,0.08,0.69,0.743,Not significant
+"Mingchungu Shiziling, Baiyun Mountain",Urban park group,16,−30.9,−0.22,0.265,0.412,Not significant
+"Mingchungu Pugu, Baiyun Mountain",Urban park group,16,0.5,0.05,0.825,0.825,Not significant
+Baishuizhai Scenic Area,Mountain forest group,16,−1150.8,−0.17,0.398,0.465,Not significant
+Baijianghu Forest Park,Mountain forest group,15,−1280.4,−0.28,0.169,0.393,Not significant
+Shimen National Forest Park,Mountain forest group,16,−841.0,−0.18,0.35,0.446,Not significant
+Huadu Lake National Wetland Park,Urban park group,16,−18.0,−0.38,0.041,0.289,Decrease (unadjusted)
+Yuexiu Park,Urban park group,16,−9.8,−0.23,0.228,0.412,Not significant
+Luhu Park,Urban park group,16,−4.7,−0.2,0.306,0.428,Not significant

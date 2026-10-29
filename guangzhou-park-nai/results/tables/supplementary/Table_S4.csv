@@ -1,0 +1,19 @@
+﻿No.,Feature A,Feature B,Pearson r,Selection decision
+1,hls_model_ndmi,hls_model_ndbi,−1.000,Retain hls_model_ndmi; exclude hls_model_ndbi
+2,jrc_permanent_water,jrc_distance_to_water_m,−1.000,Neither included in the models
+3,hls_model_evi2,hls_model_nirv,0.996,Retain hls_model_evi2; exclude hls_model_nirv
+4,hls_model_ndbi,hls_model_bsi,0.977,Neither included in the models
+5,hls_model_ndmi,hls_model_bsi,−0.977,Retain hls_model_ndmi; exclude hls_model_bsi
+6,jrc_water_seasonality_months,jrc_distance_to_water_m,−0.959,Neither included in the models
+7,jrc_water_seasonality_months,jrc_permanent_water,0.959,Neither included in the models
+8,hls_model_ndvi,hls_model_bsi,−0.947,Neither included in the models
+9,dem_elevation_m,dem_relief_500m,0.932,Retain dem_elevation_m; exclude dem_relief_500m
+10,dw_baseline2023_trees_prob,dw_baseline2023_built_prob,−0.919,Retain dw_baseline2023_trees_prob; exclude dw_baseline2023_built_prob
+11,dem_slope_deg,dem_relief_500m,0.913,Neither included in the models
+12,hls_model_ndvi,hls_model_ndmi,0.886,Retain hls_model_ndmi; exclude hls_model_ndvi
+13,hls_model_ndvi,hls_model_ndbi,−0.886,Neither included in the models
+14,dem_slope_deg,dw_baseline2023_trees_prob,0.883,Retain dw_baseline2023_trees_prob; exclude dem_slope_deg
+15,jrc_water_seasonality_months,dw_baseline2023_water_prob,0.879,Neither included in the models
+16,hls_model_ndvi,hls_model_mndwi,−0.867,Neither included in the models
+17,hls_model_ndvi,hls_model_evi2,0.857,Retain hls_model_evi2; exclude hls_model_ndvi
+18,jrc_water_occurrence_pct,jrc_water_seasonality_months,0.854,Neither included in the models

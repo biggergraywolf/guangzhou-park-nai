@@ -1,0 +1,8 @@
+﻿park,pixel_count,tested_pixel_count,park_mean_series_sen_slope,park_mean_series_mk_p,pixel_sen_median,pixel_sen_mean,pixel_sen_P25,pixel_sen_P75,positive_slope_fraction_pct,unadjusted_p_lt_0_05_pixel_count,unadjusted_p_lt_0_05_fraction_pct,expected_false_positive_count,fdr_significant_pixel_count,fdr_significant_fraction_pct,unadjusted_significant_increase_pixel_count,unadjusted_significant_decrease_pixel_count
+Zhujiang Park,27,27,-6.63,0.1179,-5.74,-5.52,-8.79,1.66,29.6,3,11.11,1.4,0,0.0,0,3
+Yuexiu Park,75,72,-2.77,0.7545,-1.76,-1.11,-7.59,4.77,40.3,5,6.94,3.6,0,0.0,2,3
+Luhu Park,95,95,-3.34,0.3481,-1.73,-2.03,-7.67,2.85,41.1,6,6.32,4.8,0,0.0,2,4
+Huadu Lake National Wetland Park,243,190,0.88,0.917,1.48,0.71,-4.25,7.02,57.9,17,8.95,9.5,0,0.0,10,7
+Guangzhou Haizhu National Wetland Park,253,245,3.16,0.6022,2.18,3.03,-1.86,7.17,62.4,26,10.61,12.2,0,0.0,22,4
+Baiyun Mountain Scenic Area,1688,1678,-1.85,0.1753,-0.78,-1.03,-5.7,3.54,45.4,59,3.52,83.9,0,0.0,18,41
+Dafushan Forest Park,592,558,-1.9,0.7545,-0.46,-1.06,-4.93,3.45,46.4,20,3.58,27.9,0,0.0,8,12

@@ -1,0 +1,15 @@
+﻿metric,value
+tested_pixel_count_total,2865
+pixel_sen_slope_median,-0.41
+pixel_sen_slope_mean,-0.65
+pixel_sen_slope_P25,-5.33
+pixel_sen_slope_P75,4.1
+positive_slope_pixel_count,1359
+negative_slope_pixel_count,1506
+unadjusted_p_lt_0_05_pixel_count,136
+unadjusted_p_lt_0_05_fraction_pct,4.75
+expected_false_positive_count_at_0_05,143.2
+bh_fdr_significant_pixel_count,0
+unadjusted_significant_increase_pixel_count,62
+unadjusted_significant_decrease_pixel_count,74
+sen_ci_excludes_zero_pixel_count,101

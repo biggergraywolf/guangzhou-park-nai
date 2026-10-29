@@ -1,0 +1,7 @@
+﻿Feature,Description,Data source (native resolution),Category
+doy_sin / doy_cos,"Sine/cosine of day of year, representing the annual seasonal cycle",Derived from observation dates,Temporal
+dem_elevation_m,Elevation,Copernicus DEM GLO-30 (30 m),Static spatial
+dw_baseline2023_trees_prob,Baseline tree-cover probability for 2023,Dynamic World V1 (10 m; median over the full year 2023),Static spatial
+hls_model_evi2,"Two-band enhanced vegetation index; valid same-day observations were preferred, with missing values filled by the nearest valid observation within ±66 days",HLS v002 (harmonized Landsat 8/9 and Sentinel-2; 30 m),Dynamic land surface
+hls_model_ndmi,"Normalized difference moisture index, using the same temporal and spatial sampling rules as EVI2",HLS v002 (30 m),Dynamic land surface
+gpm_precip_uncal_d0_mm,Same-day cumulative precipitation: half-hourly precipitationUncal rates integrated over a Guangzhou local calendar day; sampled from the station's native grid cell,"GPM IMERG V07 (0.1°, approximately 11 km)",Meteorological forcing

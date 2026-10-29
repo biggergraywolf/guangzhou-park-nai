@@ -1,0 +1,19 @@
+﻿Group,Station,Sample size,Observed mean,Predicted mean,MAE (ions cm⁻³),Bias (ions cm⁻³),Relative bias (%)
+Urban park group,"Mingchungu Shiziling, Baiyun Mountain",449,2868,2354,692,−514,−17.9
+Urban park group,Guangzhou Haizhu National Wetland Park,449,2866,2319,547,−547,−19.1
+Urban park group,Huadu Lake National Wetland Park,449,2655,2449,266,−206,−7.8
+Urban park group,Yuexiu Park,449,2257,2407,161,150,6.6
+Urban park group,"Mingzhulou Heshulin, Baiyun Mountain",449,2252,2342,316,90,4.0
+Urban park group,Dafushan Forest Park,190,2185,2401,252,216,9.9
+Urban park group,"Mingchungu Pugu, Baiyun Mountain",449,2160,2396,400,236,10.9
+Urban park group,Luhu Park,449,2146,2370,264,224,10.4
+Urban park group,Zhujiang Park,449,1977,2464,486,486,24.6
+Mountain forest group,Baishuizhai Scenic Area,449,32025,19452,13604,−12573,−39.3
+Mountain forest group,Baijianghu Forest Park,429,29089,19240,11337,−9850,−33.9
+Mountain forest group,Shimen National Forest Park,449,24309,20319,8501,−3990,−16.4
+Mountain forest group,Liuxihe National Forest Park,441,17117,22690,8340,5573,32.6
+Mountain forest group,Maofengshan Forest Park,448,5742,25029,19287,19287,335.9
+Urban park group,Pooled (group-mean baseline),3782,2387,2386,359,−1,0.0
+Urban park group,Pooled (model),3782,2387,2388,384,1,0.1
+Mountain forest group,Pooled (group-mean baseline),2216,21613,21626,14105,13,0.0
+Mountain forest group,Pooled (model),2216,21613,21359,12233,−254,−1.2

@@ -1,0 +1,12 @@
+﻿Scale,Group,n,R²,"RMSE
+(ions cm⁻³)","MAE
+(ions cm⁻³)"
+Daily,All stations,5998,0.784,6067,2832
+Daily,Urban parks,3782,0.051,488,315
+Daily,Mountain forests,2216,0.564,9961,7126
+Monthly,All stations,214,0.854,4664,2120
+Monthly,Urban parks,135,0.321,371,255
+Monthly,Mountain forests,79,0.691,7662,5308
+Contiguous seasonal,All stations,80,0.873,4033,1738
+Contiguous seasonal,Urban parks,51,0.485,307,224
+Contiguous seasonal,Mountain forests,29,0.730,6687,4401

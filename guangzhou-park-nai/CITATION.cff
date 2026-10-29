@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this code, data or the derived rasters, please cite the associated manuscript and this repository."
+title: "Temporal reconstruction and spatial transferability of remote sensing estimates of negative air ion concentrations in Guangzhou parks"
+abstract: "Reproducibility package for a study that combines 5,998 daily negative air ion observations from 14 monitoring stations in Guangzhou with remote sensing predictors, compares machine learning models under random, cross-year and leave-one-station-out validation, and quantifies where spatial transfer fails. Contains monitoring records, Earth Engine exports, the modelling table, trained models, frozen validation outputs and aggregated raster summaries; the GeoTIFF layers are archived separately."
+type: software
+version: 1.0.0
+date-released: "2026-10-29"
+license:
+  - MIT
+  - CC-BY-4.0
+# Replace the entry below with the author list before publication, for example:
+#   - family-names: "Zhang"
+#     given-names: "San"
+#     orcid: "https://orcid.org/0000-0000-0000-0000"
+authors:
+  - name: "The authors of this repository"
+keywords:
+  - negative air ions
+  - urban parks
+  - remote sensing
+  - machine learning
+  - spatial transferability
+  - Google Earth Engine
